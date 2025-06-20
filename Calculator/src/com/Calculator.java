@@ -5,10 +5,12 @@ public class Calculator
 	
 	public int division()
 	{
-		System.out.println("division method");
+		System.out.println("mul method");
 		int a=10;
 		int b=2;
 		int res=a/b;
+	        System.out.println(res);
+		System.out.println(first method);
 		return res;
 	}
 	public int multiplication()
