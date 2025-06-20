@@ -10,6 +10,7 @@ public class Calculator
 		int b=2;
 		int res=a/b;
 	        System.out.println(res);
+		System.out.println(first method);
 		return res;
 	}
 	public int multiplication()
