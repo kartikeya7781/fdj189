@@ -34,6 +34,8 @@ public class Calculator
 		int a=10;
 		int b=2;
 		int res4=a-b;
+		System.out.println(r4);
 		return res4;
+		
 	}
   }
