@@ -20,14 +20,7 @@ public class Calculator
 		return res1;
 	}
 
-     public int Add()
-	{
-                System.out.println("Add method");
-		int a=10;
-		int b=2;
-		int res3=a+b;
-		return res3;
-	}
+
 	     public int Substraction()
 	{
                 System.out.println("Substraction method");
